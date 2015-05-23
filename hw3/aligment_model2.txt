@@ -1,0 +1,86 @@
+
+
+
+
+Aligments for 20 sentences in the training Data
+English:resumption of the session
+German:wiederaufnahme der sitzungsperiode
+Alignment: [1, 3, 4]
+
+English:i declare resumed the session of the european parliament adjourned on thursday , 28 march 1996 .
+German:ich erkl&auml;re die am donnerstag , den 28. m&auml;rz 1996 unterbrochene sitzungsperiode des europ&auml;ischen parlaments f&uuml;r wiederaufgenommen .
+Alignment: [1, 2, 4, 12, 12, 13, 7, 14, 15, 16, 10, 5, 10, 8, 9, 10, 3, 17]
+
+English:welcome
+German:begr&uuml;&szlig;ung
+Alignment: [1]
+
+English:i bid you a warm welcome !
+German:herzlich willkommen !
+Alignment: [5, 2, 7]
+
+English:approval of the minutes
+German:genehmigung des protokolls
+Alignment: [1, 2, 1]
+
+English:the minutes of the sitting of thursday , 28 march 1996 have been distributed .
+German:das protokoll der sitzung vom donnerstag , den 28. m&auml;rz 1996 wurde verteilt .
+Alignment: [1, 2, 3, 5, 10, 7, 8, 4, 9, 10, 11, 14, 14, 15]
+
+English:are there any comments ?
+German:gibt es einw&auml;nde ?
+Alignment: [2, 2, 4, 5]
+
+English:points 16 and 17 now contradict one another whereas the voting showed otherwise .
+German:die punkte 16 und 17 widersprechen sich jetzt , obwohl es bei der abstimmung anders aussah .
+Alignment: [10, 1, 2, 3, 4, 6, 6, 5, 7, 9, 12, 12, 10, 11, 12, 6, 14]
+
+English:i shall be passing on to you some comments which you could perhaps take up with regard to the voting .
+German:ich werde ihnen die entsprechenden anmerkungen aush&auml;ndigen , damit sie das eventuell bei der abstimmung &uuml;bernehmen k&ouml;nnen .
+Alignment: [1, 2, 7, 6, 4, 9, 4, 10, 20, 11, 13, 4, 17, 19, 20, 4, 12, 21]
+
+English:i will have to look into that , mrs oomen-ruijten .
+German:das mu&szlig; ich erst einmal kl&auml;ren , frau oomen-ruijten .
+Alignment: [8, 10, 1, 10, 5, 10, 8, 9, 10, 11]
+
+English:i cannot say anything at this stage .
+German:das kann ich so aus dem stand nicht sagen .
+Alignment: [5, 2, 1, 4, 4, 4, 7, 2, 3, 8]
+
+English:we will consider the matter .
+German:wir werden das &uuml;berpr&uuml;fen .
+Alignment: [1, 2, 3, 5, 6]
+
+English:mr president , it concerns the speech made last week by mr fischler on bse and reported in the minutes .
+German:es geht um die erkl&auml;rung von herrn fischler zu bse , die im protokoll festgehalten wurde .
+Alignment: [4, 5, 5, 5, 7, 7, 12, 13, 15, 15, 14, 6, 17, 20, 17, 20, 21]
+
+English:perhaps the commission or you could clarify a point for me .
+German:vielleicht k&ouml;nnten die kommission oder sie mir einen punkt erl&auml;utern .
+Alignment: [1, 6, 2, 3, 4, 5, 11, 8, 9, 7, 12]
+
+English:it would appear that a speech made at the weekend by mr fischler indicates a change of his position .
+German:offensichtlich bedeutet die erkl&auml;rung von herrn fischler vom wochenende eine &auml;nderung der haltung der kommission .
+Alignment: [3, 14, 9, 6, 6, 12, 13, 10, 10, 15, 16, 17, 19, 17, 14, 20]
+
+English:i welcome this change because he has said that he will eat british beef and that the ban was imposed specifically for economic and political reasons .
+German:ich begr&uuml;&szlig;e diese &auml;nderung , denn er sagte , da&szlig; er britisches rindfleisch essen w&uuml;rde und da&szlig; das einfuhrverbot insbesondere aus wirtschaftlichen und politischen gr&uuml;nden verh&auml;ngt wurde .
+Alignment: [1, 2, 3, 4, 6, 5, 6, 8, 9, 9, 10, 12, 14, 12, 12, 15, 16, 18, 18, 21, 26, 23, 24, 25, 26, 12, 19, 27]
+
+English:could somebody clarify that he has actually said this please , mr president , because it is a change of views .
+German:herr pr&auml;sident , k&ouml;nnte festgestellt werden , ob er das tats&auml;chlich gesagt hat , denn das w&uuml;rde eine &auml;nderung der haltung der kommission bedeuten .
+Alignment: [12, 13, 4, 1, 2, 2, 11, 2, 5, 9, 7, 8, 6, 14, 15, 17, 2, 18, 19, 20, 2, 20, 2, 2, 22]
+
+English:mr sturdy , i cannot see what that has to do with the minutes .
+German:herr kollege , ich kann nicht erkennen , was das mit dem protokoll zu tun hat .
+Alignment: [1, 2, 3, 4, 5, 5, 2, 3, 7, 14, 12, 12, 14, 10, 11, 9, 15]
+
+English:mr president , on exactly the same point as mr sturdy has raised .
+German:herr pr&auml;sident , zum gleichen punkt , den auch herr sturdy angesprochen hat .
+Alignment: [1, 2, 3, 11, 7, 8, 3, 6, 7, 10, 11, 13, 12, 14]
+
+English:if commission fischler has made this statement , then he has said that it is not a matter of public health .
+German:wenn herr kommissar fischler diese erkl&auml;rung abgegeben hat , dann bedeutet dies , da&szlig; es sich nicht um eine angelegenheit der &ouml;ffentlichen gesundheit handelt .
+Alignment: [1, 3, 3, 3, 6, 7, 7, 4, 8, 9, 3, 6, 12, 13, 14, 11, 16, 18, 17, 18, 19, 20, 21, 3, 22]
+
+Writing Qvalues to the file: qvalModel
